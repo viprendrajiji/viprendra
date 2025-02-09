@@ -1,0 +1,164 @@
+//#include<stdio.h>
+//int main(){
+//	int i,n,m,j;
+//	scanf("%d",&n);
+//	scanf("%d",&m);
+//	for(i=1;i<=n;i++){
+//		for(j=1;j<=m;j++){
+//			printf("*");
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n,m;
+//	scanf("%d %d",&n,&m);
+//	for(i=0;i<n;i++){
+//		for(j=0;j<m;j++){
+//			printf("%d",j);
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n,m;
+//	scanf("%d %d",&n,&m);
+//	for(i=1;i<=n;i++){
+//		for(j=1;j<=i;j++){
+//			printf("*");
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n,m;
+//	scanf("%d %d",&n,&m);
+//	for(i=0;i<=n;i++){
+//		for(j=0;j<n-i;j++){
+//			printf("*");
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n,m;
+//	scanf("%d",&n);
+//	for(i=1;i<=n;i++){
+//		for(j=1;j<=i;j++){
+//			printf("%d",j);
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n,m;
+//	scanf("%d",&n);
+//	for(i=1;i<=n;i++){
+//		for(j=1;j<=n+1-i;j++){
+//			printf("%d",j);
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n,m;
+//	scanf("%d %d",&n,&m);
+//	for(i=0;i<=n;i++){
+//		for(j=0;j<i;j++){
+//			printf("%d",2*i-1);
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n,m;
+//	scanf("%d",&n);
+//	for(i=1;i<=n;i++){
+//		for(j=1;j<=i;j++){
+//			printf("%d",2*j-1);
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n,m;
+//	scanf("%d",&n);
+//	for(i=65;i<=n+65;i++){
+//		for(j=65;j<=i;j++){
+//			printf("%c",j);
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n;
+//	scanf("%d",&n);
+//	for(i=1;i<=n;i++){
+//		for(j=1;j<=i;j++){
+//			if(i%2==0){
+//				printf("%d",j);
+//			}else{
+//				printf("%c",j+65-1);
+//			}
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n;
+//	scanf("%d",&n);
+//	for(i=1;i<=n;i++){
+//		for(j=1;j<=n;j++){
+//			if(i==(n+1)/2 || j==(n+1)/2){
+//				printf("*");
+//			}else{
+//				printf(" ");
+//			}
+//		}printf("\n");
+//	}
+//}
+
+
+//#include<stdio.h>
+//int main(){
+//	int i,j,n;
+//	scanf("%d",&n);
+//	for(i=1;i<=n;i++){
+//		for(j=1;j<=n;j++){
+//			if(i==1 || j==1 || i==n || j==n){
+//				printf("*");
+//			}else{
+//				printf(" ");
+//			}
+//		}printf("\n");
+//	}
+//}
+
+
+
+
+
+
+
+
+
